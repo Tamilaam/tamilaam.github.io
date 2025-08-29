@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hello! I'm **Tamila**, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab, Heinrich Heine University Düsseldorf**.  
+Hello! I'm Tamila, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab, Heinrich Heine University Düsseldorf**.  
 
 I work at the intersection of **computer science, data science, and biology**, where I apply **algorithms and machine learning** to extract meaningful insights from complex biological phenomena.  
 
