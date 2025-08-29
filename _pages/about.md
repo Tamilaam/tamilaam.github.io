@@ -25,8 +25,8 @@ My current focus is on **cancer genomics**, with a particular interest in **tumo
   
 - **Thesis Internship – Algorithmic Bioinformatics Lab**  
   *Heinrich Heine University Düsseldorf*  
-  Developed a machine learning pipeline to cluster tumor mutation trees based on graph representations.  
-  Achieved competitive results on real-world cancer datasets (e.g., 683–728% improvement in MCS score).  
+  Developed a machine learning pipeline to cluster tumor mutation trees based on graph representations.
+  Achieved neural network–level accuracy with reduced runtime and improvement in structural coherence. 
 
 - **Quantitative Analyst**  
   *University of Milan, Italy*  
