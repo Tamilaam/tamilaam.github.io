@@ -15,10 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Tamila Abbasali
 email: tamila.abbasali@gmail.com
-description: >- "Bioinformatics • Machine Learning • Data Science"# this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  Computational biology for cancer genomics — applying machine learning and data science to study tumor mutation and evolution.
+
 twitter_username: username
 github_username: tamilaam
 minimal_mistakes_skin: default
