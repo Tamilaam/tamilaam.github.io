@@ -57,16 +57,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Abbasali Tamila"
-  avatar : "/assets/images/tamila.jpg"
+  name   : "Tamila Abbasali"
+  avatar : "/assets/images/tamila.JPG"
   bio    : "Bioinformatician with experience in Python-based modeling, data science, and machine learning for biological data."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tamilaam"
