@@ -3,6 +3,48 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm **Tamila**, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab, Heinrich Heine University Düsseldorf**.  
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I work at the intersection of **computer science, data science, and biology**, where I apply **algorithms and machine learning** to extract meaningful insights from complex biological phenomena.  
+
+My current focus is on **cancer genomics**, with a particular interest in **tumor mutation and evolutionary patterns**.
+
+## 🎓 Education
+- **M.Sc. Quantitative Biology** (2023–present) – University of Milan  
+  Focus: Python programming, data science, machine learning, mathematical modeling for biology  
+- **Erasmus Exchange** (2024–present) – Heinrich Heine University Düsseldorf  
+- **B.Sc. Biotechnology** (2016–2020) – University of Tehran
+
+---
+
+## 💼 Experience
+
+- **Internship – Algorithmic Bioinformatics Lab** *(Starting October 2025)*  
+  *Heinrich Heine University Düsseldorf*  
+  Designing a reproducible single-cell RNA-seq analysis platform integrating machine learning, gene network inference, and workflow automation.
+  
+- **Thesis Internship – Algorithmic Bioinformatics Lab**  
+  *Heinrich Heine University Düsseldorf*  
+  Developed a machine learning pipeline to cluster tumor mutation trees based on graph representations.  
+  Achieved competitive results on real-world cancer datasets (e.g., 683–728% improvement in MCS score).  
+
+- **Quantitative Analyst**  
+  *University of Milan, Italy*  
+  Statistical analysis of patch-clamp recordings from ion channels in genetically modified cells.  
+
+- **R&D Intern**  
+  *Pasteur Institute of Iran, Tehran*  
+  Documented GMP upstream/downstream processes and assisted in bioprocess scale-up discussions.
+
+---
+
+## 🛠️ Skills
+- **Programming & Tools:** Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), R (Bioconductor), Git & Bash  
+- **Bioinformatics:** RNA-seq analysis, structural bioinformatics, GROMACS, Kallisto, limma/voom, AlphaFold2, PyMOL, VMD  
+- **Data Science & ML:** Optimization, Clustering (k-means, DBSCAN), PCA/UMAP/t-SNE, regression, statistical modeling, Model Fitting & Evaluation
+- **Languages:** English (full professional), Turkish (full professional), Persian (native), German (elementary)
+
+---
+
+🔗 [My GitHub](https://github.com/tamilaam)  
+🔗 [My LinkedIn](https://www.linkedin.com/in/tamila-abbasali/)
