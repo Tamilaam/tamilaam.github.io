@@ -7,8 +7,9 @@ layout: single
 # 🧪 Selected Projects
 
 ### 🧾 Master’s Thesis – Tumor Mutation Tree Clustering 
-Developed a neural-network-free pipeline to cluster tumor mutation trees in cancer genomics using machine learning and kernel-based graph representations.  
-Achieved **competing results** with a neural network–based baseline, including a **increased silhouette score** and **significantly reduced runtime**.
+
+Developed a machine learning pipeline for clustering tumor mutation trees using structural features extracted through graph kernels. Applied the method to diverse datasets, including a **real-world AML cohort** (123 trees), a **pan-cancer tree collection** spanning six cancer types, and a **synthetic dataset** designed with known structural patterns. By replacing neural network embeddings with kernel-derived cosine similarities, the pipeline achieved **comparable or better clustering performance** while **reducing runtime significantly**. Key evaluation results include **Adjusted Rand Index (ARI = 0.62)**, **Mantel correlation (r = 0.71)**, and a **+728% improvement in Maximum Common Subgraph (MCS) score** over baseline. This lightweight, interpretable approach offers a practical alternative for analyzing biological graph data with minimal computational cost.
+
 
 *GitHub repository coming soon.*
 
