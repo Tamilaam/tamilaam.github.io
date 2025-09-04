@@ -3,17 +3,21 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
+---
 layout: home
 author_profile: true
-title: "Welcome"
+title: "Tamila Abbasali"
+excerpt: "Bioinformatician | ML & Graphs | Biotech"
+entries_layout: list
 ---
 
-<!-- Show full post content on homepage -->
+<!-- Show full post contents -->
 {% for post in site.posts %}
   <article>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.content }}
   </article>
 {% endfor %}
+
 
 ---
