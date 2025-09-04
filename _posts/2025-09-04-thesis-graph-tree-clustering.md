@@ -2,7 +2,7 @@
 title: "🧠 Machine Learning Pipeline for Clustering Tumor Mutation Trees Using Graph Kernels"
 layout: single
 date: 2025-09-04
-author_profile: false
+author_profile: true
 read_time: true
 comments: false
 share: false
