@@ -80,6 +80,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+sass:
+  style: compressed
+
+include:
+  - _pages
+  - _assets/css
+
 
 defaults:
   # _posts
@@ -88,6 +95,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: "custom-font"
       author_profile: true
       read_time: true
       comments: true
