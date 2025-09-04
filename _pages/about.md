@@ -1,29 +1,27 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me!"
 ---
 
-Hello! I'm Tamila, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab, Heinrich Heine University Düsseldorf**.  
+Hello! I'm Tamila, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab**.
 
 I work at the intersection of **computer science, data science, and biology**, where I apply **algorithms and machine learning** to extract meaningful insights from complex biological phenomena.  
 
 My current focus is on **cancer genomics**, with a particular interest in **tumor mutation and evolutionary patterns**.
 
 ## 🎓 Education
-- **M.Sc. Quantitative Biology** (2023–present) – University of Milan  
-  Focus: Python programming, data science, machine learning, mathematical modeling for biology  
-- **Erasmus Exchange** (2024–present) – Heinrich Heine University Düsseldorf  
-- **B.Sc. Biotechnology** (2016–2020) – University of Tehran
+- **M.Sc. Quantitative Biology** (Oct 2023– expected graduation day: 30.01.2026)) – University of Milan, Milan, Italy  
+  Focus: Python programming, data science and machine learning, mathematical modeling for biology, Logical Methods, Biophysics  
+- **Erasmus Exchange** (Oct 2024– July 2025) – Heinrich Heine University Düsseldorf, Düsseldorf, Germany
+  [Master's Thesis](https://tamilaam.github.io/thesis-tumor-mutation-trees/)
+- **B.Sc. Biotechnology** (2016–2020) – University of Tehran, Tehran, Iran
+  Focus: Industrial Biotechnology, Microbiology, Biochemical Engineering  
 
 ---
 
 ## 💼 Experience
-
-- **Internship – Algorithmic Bioinformatics Lab** *(Starting October 2025)*  
-  *Heinrich Heine University Düsseldorf*  
-  Designing a reproducible single-cell RNA-seq analysis platform integrating machine learning, gene network inference, and workflow automation.
   
-- **Thesis Internship – Algorithmic Bioinformatics Lab**  
+- **Thesis Internship – Algorithmic Bioinformatics Lab**
   *Heinrich Heine University Düsseldorf*  
   Developed a machine learning pipeline to cluster tumor mutation trees based on graph representations.
   Achieved neural network–level accuracy with reduced runtime and improvement in structural coherence. 
@@ -39,10 +37,12 @@ My current focus is on **cancer genomics**, with a particular interest in **tumo
 ---
 
 ## 🛠️ Skills
-- **Programming & Tools:** Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), R (Bioconductor), Git & Bash  
+- **Programming & Tools:** Python (NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · NetworkX) · R (ggplot2) · 
+Databases (SQL · MySQL)  · neo4j · Py2neo · Graph Databases · Git & Bash · MS Office / Excel · 
+JavaScript 
 - **Bioinformatics:** RNA-seq analysis, structural bioinformatics, GROMACS, Kallisto, limma/voom, AlphaFold2, PyMOL, VMD  
 - **Data Science & ML:** Optimization, Clustering (k-means, DBSCAN), PCA/UMAP/t-SNE, regression, statistical modeling, Model Fitting & Evaluation
-- **Languages:** English (full professional), Turkish (full professional), Persian (native), German (elementary)
+- **Languages:** English (full professional), Turkish (full professional), Persian (native), German (elementary), Italian (elementary)
 
 ---
 
