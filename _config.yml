@@ -15,7 +15,10 @@ paginate: 5
 paginate_path: /page:num/
 timezone:
 
-# 🚫 Prevent README.md from becoming the homepage
+# Make sure posts with today's date show up everywhere
+future: true
+
+# Stop README.md from becoming the homepage
 readme_index:
   enabled: false
 
@@ -26,7 +29,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  # (jekyll-readme-index is loaded by GitHub Pages implicitly, config above disables it)
 
 author:
   name: "Tamila Abbasali"
