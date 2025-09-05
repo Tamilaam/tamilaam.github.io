@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tamila Abbasali
+title: MM
 email: tamila.abbasali@gmail.com
-description: >-
-  Computational biology for cancer genomics — applying machine learning and data science to study tumor mutation and evolution.
-
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: tamilaam
+github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -58,16 +59,21 @@ plugins:
 
 author:
   name   : "Tamila Abbasali"
-  avatar : "/assets/images/tamila.JPG"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Bioinformatician with experience in Python-based modeling, data science, and machine learning for biological data."
   links:
-
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tamilaam"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/tamilanlb"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
@@ -80,9 +86,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-sass:
-  style: compressed
-
 
 defaults:
   # _posts
@@ -91,7 +94,6 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: "custom-font"
       author_profile: true
       read_time: true
       comments: true
@@ -108,7 +110,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-  
 tag_archive:
   type: liquid
   path: /tags/
