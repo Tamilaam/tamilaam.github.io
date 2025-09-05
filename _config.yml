@@ -1,4 +1,3 @@
-# --- Site settings ---
 title: Tamila Abbasali
 email: tamila.abbasali@gmail.com
 description: >-
@@ -8,17 +7,18 @@ github_username: tamilaam
 minimal_mistakes_skin: default
 search: true
 
-# --- Build settings ---
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
-# URLs & pagination
 permalink: /:title/
 paginate: 5
 paginate_path: /page:num/
 timezone:
 
-# Plugins
+# 🚫 Prevent README.md from becoming the homepage
+readme_index:
+  enabled: false
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -26,8 +26,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  # (jekyll-readme-index is loaded by GitHub Pages implicitly, config above disables it)
 
-# Author
 author:
   name: "Tamila Abbasali"
   avatar: "/assets/images/tamila.JPG"
@@ -40,7 +40,6 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tamilanlb"
 
-# Footer
 footer:
   links:
     - label: "Twitter"
@@ -53,15 +52,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-# Sass
 sass:
   style: compressed
 
-# Folders to include (non-underscore)
 include:
   - _pages
 
-# Defaults
 defaults:
   - scope:
       path: ""
