@@ -7,7 +7,6 @@ read_time: false
 comments: false
 share: false
 last_modified_at: false
-permalink: /thesis-tumor-mutation-trees/
 ---
 
 *ML and biology? Sounded like the best-fit thesis for me.:)*  
