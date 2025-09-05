@@ -1,26 +1,21 @@
 ---
 layout: default
 author_profile: true
-title: "Welcome"
+title: "Home"
 ---
 
 <div id="main" role="main">
   <div class="archive">
     <h1 class="page__title">{{ page.title | default: site.title }}</h1>
 
-    {% if paginator.posts %}
-      {% assign posts = paginator.posts %}
-    {% else %}
-      {% assign posts = site.posts %}
-    {% endif %}
-
+    {% assign posts = site.posts | sort: "date" | reverse %}
     {% for post in posts %}
       <article class="archive__item">
         <h2 class="archive__item-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
         <div class="archive__item-excerpt">
-          {{ post.content }} <!-- 🔥 FULL CONTENT, not just excerpt -->
+          {{ post.content }}
         </div>
       </article>
     {% endfor %}
