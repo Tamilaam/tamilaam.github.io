@@ -1,21 +1,13 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
 layout: home
 author_profile: true
 title: "Tamila Abbasali"
 excerpt: "Bioinformatician | ML & Graphs | Biotech"
-entries_layout: list
 ---
 
-<!-- Show full post contents -->
 {% for post in site.posts %}
   <article>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.content }}
+    {{ post.content }}   <!-- full content -->
   </article>
 {% endfor %}
-
----
