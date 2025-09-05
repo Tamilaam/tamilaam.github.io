@@ -4,7 +4,16 @@ permalink: /projects/
 layout: single
 ---
 
-# 🧪 Selected Projects
+## 🧪 Selected Projects
+
+### 🧬 Mapping Single-Cell Transcriptomic Patterns with Machine Learning (ongoing)
+
+I’m currently developing a reproducible analysis pipeline for single-cell RNA-seq data from acute myeloid leukemia (AML) patients. The goal is to process omics data from public sources, apply machine learning to classify cell states, and uncover network-level relationships between genes involved in disease progression. The pipeline is implemented in Python using **Scanpy, XGBoost, and Nextflow**, and results are structured into a **SQL database** for further exploration and integration.
+
+
+*GitHub repository coming soon.*
+
+---
 
 ### 🧾 Master’s Thesis – Tumor Mutation Tree Clustering 
 
