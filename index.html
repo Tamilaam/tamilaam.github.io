@@ -2,7 +2,21 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home-full
+layout: single
 title: "Home"
 author_profile: true
 ---
+<div class="archive">
+  {% assign posts = site.posts | sort: "date" | reverse %}
+  {% for post in posts %}
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <div class="archive__item-excerpt">
+        {{ post.content }}  <!-- full post body -->
+      </div>
+    </article>
+    <hr>
+  {% endfor %}
+</div>
