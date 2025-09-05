@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me!"
 ---
 
-Hello! I'm Tamila, a computational biologist and current bioinformatics intern at the **Algorithmic Bioinformatics Lab**.
+Hello! I'm Tamila, a bioinformatician and current student intern at the **Algorithmic Bioinformatics Lab**.
 
 I work at the intersection of **computer science, data science, and biology**, where I apply **algorithms and machine learning** to extract meaningful insights from complex biological phenomena.  
 
@@ -37,10 +37,9 @@ My current focus is on **cancer genomics**, with a particular interest in **tumo
 ---
 
 ## 🛠️ Skills
-- **Programming & Tools:** Python (NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · NetworkX) · R (ggplot2) · 
-Databases (SQL · MySQL)  · neo4j · Py2neo · Graph Databases · Git & Bash · MS Office / Excel · 
-JavaScript 
-- **Bioinformatics:** RNA-seq analysis, structural bioinformatics, GROMACS, Kallisto, limma/voom, AlphaFold2, PyMOL, VMD  
+- **Programming & Tools:** Python (NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · NetworkX) · RStudio · 
+Databases (SQL · MySQL)  · neo4j · Py2neo · Git & Bash · MS Office / Excel · JavaScript 
+- **Bioinformatics:** RNA-seq analysis, structural bioinformatics, protein design, GROMACS, Kallisto, limma/voom, AlphaFold2, PyMOL, VMD  
 - **Data Science & ML:** Optimization, Clustering (k-means, DBSCAN), PCA/UMAP/t-SNE, regression, statistical modeling, Model Fitting & Evaluation
 - **Languages:** English (full professional), Turkish (full professional), Persian (native), German (elementary), Italian (elementary)
 
