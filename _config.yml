@@ -83,10 +83,6 @@ footer:
 sass:
   style: compressed
 
-include:
-  - _pages
-  - _assets/css
-
 
 defaults:
   # _posts
@@ -112,6 +108,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  
 tag_archive:
   type: liquid
   path: /tags/
