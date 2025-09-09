@@ -7,10 +7,9 @@ Hello! I'm Tamila, a bioinformatician and current student intern at the **Algori
 
 I work at the intersection of **computer science, data science, and biology**, where I apply **algorithms and machine learning** to extract meaningful insights from complex biological phenomena.  
 
-My current focus is on **cancer genomics**, with a particular interest in **tumor mutation and evolutionary patterns**.
 
 ## 🎓 Education
-- **M.Sc. Quantitative Biology** (Oct 2023– expected graduation day: 30.01.2026) – University of Milan, Milan, Italy  
+- **M.Sc. Quantitative Biology** (Oct 2023– expected graduation: 30.10.2025) – University of Milan, Milan, Italy  
   Focus: Python programming, data science and machine learning, mathematical modeling for biology, Logical Methods, Biophysics  
 - **Erasmus Exchange** (Oct 2024– July 2025) – Heinrich Heine University Düsseldorf, Düsseldorf, Germany
   [Master's Thesis](https://tamilaam.github.io/thesis-tumor-mutation-trees/)
